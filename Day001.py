@@ -8,4 +8,4 @@ print('hello,world!')
 my first python
  
 """
-# print('hello', 'world', sep=', ', end='!')
+print("hello", "world")
